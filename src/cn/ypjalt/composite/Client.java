@@ -5,7 +5,7 @@ public class Client {
         // 从大到小创建对象 学校
         OrganizationComponent university = new University("清华大学", "中国第一大学");
         // 创建学院
-        OrganizationComponent college1 = new College("计算机学院", "计算机学院牛逼");
+        OrganizationComponent college1 = new College("计算机学院", "计算机学院666");
         OrganizationComponent college2 = new College("信息工程学院", "信息工程学院不错");
 
         // 创建各个学研下面的系(专业)

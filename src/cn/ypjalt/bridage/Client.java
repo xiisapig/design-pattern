@@ -6,11 +6,7 @@ public class Client {
         phone1.open();
         phone1.call();
         phone1.close();
-
         Phone phone2 = new UpRightPhone(new Vivo());
         phone2.open();
-
-
-
     }
 }

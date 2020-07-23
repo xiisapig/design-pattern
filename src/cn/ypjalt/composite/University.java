@@ -3,7 +3,7 @@ package cn.ypjalt.composite;
 import java.util.ArrayList;
 import java.util.List;
 
-//
+
 public class University extends OrganizationComponent {
 
     List<OrganizationComponent> organizationComponents = new ArrayList<OrganizationComponent>();
